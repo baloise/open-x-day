@@ -1,0 +1,11 @@
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
+
+# IDE settings
+**/.settings/
+/bin
+
+# OS files
+*.DS_Store
