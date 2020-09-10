@@ -1,4 +1,4 @@
-![](https://baloise.github.io/open-x-day/img/logo.svg)
+<img src="https://baloise.github.io/open-x-day/img/logo.svg" width="100%">
 
 ## Was ist der Open X-Day?
 
