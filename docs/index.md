@@ -1,4 +1,4 @@
-# Open X-Day
+![](https://baloise.github.io/open-x-day/img/logo.svg)
 
 ## Was ist der Open X-Day?
 
