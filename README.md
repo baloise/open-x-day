@@ -1,5 +1,7 @@
 # open-x-day
 
-## https://www.openfriday.org
+## format: https://www.openfriday.org
+
+## [TLA](https://en.wikipedia.org/wiki/Three-letter_acronym): OXD
 
 ## the [docs](docs/index.md)
