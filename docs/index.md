@@ -69,6 +69,3 @@ All topics are welcome.
 If you already know that a topic cannot be finished in an hour, you can also use several slots (next to each other).
 
 ## When will the (next) Open X-Days take place?
-
-
-Translated with www.DeepL.com/Translator (free version)
