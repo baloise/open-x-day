@@ -6,6 +6,6 @@
 
 ## documentation
 
-### ... in [english](docs/index.md)
+### ... in [english](https://baloise.github.io/open-x-day/index.html)
 
-### ... auf [deutsch](docs/index.de.md)
+### ... auf [deutsch](https://baloise.github.io/open-x-day/index.de.html)
