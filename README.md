@@ -4,4 +4,8 @@
 
 ## [TLA](https://en.wikipedia.org/wiki/Three-letter_acronym): OXD
 
-## the [docs](docs/index.md)
+## documentation
+
+### ... in [english](docs/index.md)
+
+### ... auf [deutsch](docs/index.de.md)
