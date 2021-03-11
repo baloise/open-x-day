@@ -1,8 +1,10 @@
-# open-x-day
+# Open X Day
 
 ## format: https://www.openfriday.org
 
 ## [TLA](https://en.wikipedia.org/wiki/Three-letter_acronym): OXD
+
+## hastags : #openxday
 
 ## documentation
 
