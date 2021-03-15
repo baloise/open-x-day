@@ -4,7 +4,7 @@
 
 ## [TLA](https://en.wikipedia.org/wiki/Three-letter_acronym): OXD
 
-## hastags : #openxday
+## hastags : [#openxday](https://twitter.com/search?q=%23openxday)
 
 ## documentation
 
