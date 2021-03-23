@@ -1,16 +1,16 @@
 <img src="https://baloise.github.io/open-x-day/img/logo.svg" width="100%">
 
-## What is Open X-Day?
+## What is Open X Day?
 
-On this day we take time to do things we don't have time for otherwise. The Open X-Day is dedicated to all activities that are important for the organisation and the people. Everyone can bring in topics / ideas / improvements and implement them on Open X-Day.
+On this day we take time to do things we don't have time for otherwise. The Open X Day is dedicated to all activities that are important for the organisation and the people. Everyone can bring in topics / ideas / improvements and implement them on Open X Day.
 
-## What is the goal of Open X-Day?
+## What is the goal of Open X Day?
 
 To pause and give space to things that otherwise "fall by the wayside".
 
 ## How does is work?
 
-We start at 8:30 a.m. either in a big room (restaurant) or online. The official end of the Open X-Day is the aperitif at 16:15h.
+We start at 8:30 a.m. either in a big room (restaurant) or online. The official end of the Open X Day is the aperitif at 16:15h.
 
 The theme cards will be put down on _paper_ by the participants on site or online: a crisp title / picture (as a reminder) and at the beginning (8:30 - 9:00) a short introduction (1, 2 sentences). The initiator determines time, duration, place and motivates fellow participants. The topics are managed on a board and each participant can choose the topics that interest him or her.
 
@@ -46,9 +46,9 @@ When people apply the law of two feet, they sometimes show behaviours that are m
 
 Participation is voluntary, anyone who feels like it and is motivated can participate. Anyone can contribute topics. Advance arrangements for topics with other teams are desired. Guests from outside IT and Baloise are also very welcome.
 
-## What topics are interesting for Open X-Day?
+## What topics are interesting for Open X Day?
 
-The Open X-Day is the day of all topics, e.g. topics that might otherwise have been presented in a Lightning or in a BLAC. You are also allowed to program (very much like to do it cross-team) or you were at a conference or event and you want to report about it or you have achieved something in the team that could be interesting for other teams .... There are no limits to your imagination.
+The Open X Day is the day of all topics, e.g. topics that might otherwise have been presented in a Lightning or in a BLAC. You are also allowed to program (very much like to do it cross-team) or you were at a conference or event and you want to report about it or you have achieved something in the team that could be interesting for other teams .... There are no limits to your imagination.
 
 ## How does room reservation work?
 The rooms are already reserved. You do not have to worry about that.
@@ -68,4 +68,4 @@ All topics are welcome.
 ## Can I only contribute topics that can be worked on within an hour?
 If you already know that a topic cannot be finished in an hour, you can also use several slots (next to each other).
 
-## When will the (next) Open X-Days take place?
+## When will the (next) Open X Days take place?

@@ -1,16 +1,16 @@
 <img src="https://baloise.github.io/open-x-day/img/logo.svg" width="100%">
 
-## Was ist der Open X-Day?
+## Was ist der Open X Day?
 
-An diesem Tag werden wir uns Zeit nehmen, Dinge zu tun, für die wir sonst keine Zeit haben. Der Open X-Day ist allen Aktivitäten gewidmet, die für die Organisation und den Menschen wichtig sind. Jeder kann Themen / Ideen / Verbesserungen einbringen und diese am Open X-Day umsetzen.
+An diesem Tag werden wir uns Zeit nehmen, Dinge zu tun, für die wir sonst keine Zeit haben. Der Open X Day ist allen Aktivitäten gewidmet, die für die Organisation und den Menschen wichtig sind. Jeder kann Themen / Ideen / Verbesserungen einbringen und diese am Open X Day umsetzen.
 
-## Was ist das Ziel des Open X-Days?
+## Was ist das Ziel des Open X Days?
 
 Inne halten und den Dingen, die sonst "auf der Strecke bleiben" Raum geben.
 
 ## Wie ist der Ablauf?
 
-Wir starten um 8:30 in einem groosen Raum (Kantine) oder Online. Offizielles Ende des Open X-Days ist der Apéro um 16:15h.
+Wir starten um 8:30 in einem groosen Raum (Kantine) oder Online. Offizielles Ende des Open X Days ist der Apéro um 16:15h.
 
 Die Themen-Karten werden von den Teilnehmern vor Ort oder Online zu _Papier_ gebracht: Ein knackiger Titel / Bild (als Gedächtnisstütze) und zu Beginn (8:30 - 9:00) kurz vorgestellt (1, 2 Sätze). Der Initiator bestimmt Zeit, Dauer, Ort und motiviert Mitstreiter. Die Themen werden auf einem Board verwaltet und jeder Teilnehmer kann sich für die Themen entscheiden, die ihn interessieren.
 
@@ -46,9 +46,9 @@ Wenn Menschen das Gesetz der zwei Füße anwenden, zeigen sie manchmal Verhalten
 
 Die Teilnahme ist freiwillig, jeder der Lust hat und motiviert ist, kann teilnehmen. Jeder kann Themen einbringen. Vorabsprachen für Themen mit anderen Teams ist gewünscht. Auch Gäste von außerhalb der IT und der Baloise sind herzlich willkommen.
 
-## Welche Themen sind für den Open X-Day interessant?
+## Welche Themen sind für den Open X Day interessant?
 
-Der Open X-Day ist der Tag aller Themen z.B. Themen, die sonst vielleicht in einem Lightning oder in einem BLAC vorgestellt wurden. Es darf auch programmiert werden (sehr gern auch team-übergreifend) oder ihr ward auf einer Konferenz oder Veranstaltung und ihr wollt darüber berichten oder ihr habt im Team etwas erreicht, das für andere Teams interessant sein könnte .... eurem Einfallsreichtum sind keine Grenzen gesetzt.
+Der Open X Day ist der Tag aller Themen z.B. Themen, die sonst vielleicht in einem Lightning oder in einem BLAC vorgestellt wurden. Es darf auch programmiert werden (sehr gern auch team-übergreifend) oder ihr ward auf einer Konferenz oder Veranstaltung und ihr wollt darüber berichten oder ihr habt im Team etwas erreicht, das für andere Teams interessant sein könnte .... eurem Einfallsreichtum sind keine Grenzen gesetzt.
 
 ## Wie funktioniert die Raumreservierung?
 Die Räume sind schon reserviert. Darum musst du dich nicht kümmern.
@@ -68,4 +68,4 @@ Alle Themen sind willkommen.
 ## Kann ich nur Themen einbringen, die innerhalb einer Stunde abgearbeitet werden können?
 Wenn man schon weiss, dass ein Thema nicht in einer Stunde fertig zu stellen ist, kann man auch mehrere Slots (aneinander) belegen.
 
-## Wann finden die (nächsten) Open X-Days statt?
+## Wann finden die (nächsten) Open X Days statt?
