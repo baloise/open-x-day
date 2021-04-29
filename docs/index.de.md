@@ -10,7 +10,7 @@ Inne halten und den Dingen, die sonst "auf der Strecke bleiben" Raum geben.
 
 ## Wie ist der Ablauf?
 
-Wir starten um 8:30 in einem groosen Raum (Kantine) oder Online. Offizielles Ende des Open X Days ist der Apéro um 16:15h.
+Wir starten um 8:30 in einem grossen Raum (Kantine) oder Online. Offizielles Ende des Open X Days ist der Apéro um 15:15h.
 
 Die Themen-Karten werden von den Teilnehmern vor Ort oder Online zu _Papier_ gebracht: Ein knackiger Titel / Bild (als Gedächtnisstütze) und zu Beginn (8:30 - 9:00) kurz vorgestellt (1, 2 Sätze). Der Initiator bestimmt Zeit, Dauer, Ort und motiviert Mitstreiter. Die Themen werden auf einem Board verwaltet und jeder Teilnehmer kann sich für die Themen entscheiden, die ihn interessieren.
 
@@ -54,7 +54,7 @@ Der Open X Day ist der Tag aller Themen z.B. Themen, die sonst vielleicht in ein
 Die Räume sind schon reserviert. Darum musst du dich nicht kümmern.
 
 ## An wen kann ich mich bei Fragen wenden?
-Generell könnt ihr euch gern an alle SMs der ITCH Scrum Master Team wenden.
+Generell könnt ihr euch gern an alle SMs wenden.
 
 ## Muss ich den ganzen Tag teilnehmen?
 Nein, du nimmst nur an den Sessions teil, die dich interessieren.
