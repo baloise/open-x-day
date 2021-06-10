@@ -34,9 +34,9 @@ Ein typisches Board sieht so aus:
  - Vorbei ist vorbei – Nicht vorbei ist Nicht-vorbei – wenn die Energie zu Ende ist, ist die Zeit um.
  
 ### und ein Gesetz
-**Gesetz der zwei Füße** – als Ausdruck der Freiheit und Selbstverantwortung: Der Teilnehmer bleibt nur so lange in einer Gruppe, wie er es für sinnvoll erachtet, also solange er etwas lernen und/oder beitragen kann.
+👣 **Gesetz der zwei Füße** – als Ausdruck der Freiheit und Selbstverantwortung: Der Teilnehmer bleibt nur so lange in einer Gruppe, wie er es für sinnvoll erachtet, also solange er etwas lernen und/oder beitragen kann.
 
-### Hummeln und Schmetterlinge
+### 🐝 Hummeln und Schmetterlinge 🦋
 
 Wenn Menschen das Gesetz der zwei Füße anwenden, zeigen sie manchmal Verhaltensweisen, die metaphorisch mit den Begriffen „Hummeln“ und „Schmetterlingen“ ausgedrückt werden: „Hummeln“ bewegen sich von Workshop zu Workshop wie Hummeln von Blüte zu Blüte und befruchten die Workshops wechselseitig „Schmetterlinge“ sind Anziehungspunkt für Andere.
 
