@@ -34,9 +34,9 @@ A typical board looks like this:
  - When it is over, it is over - energy is more important than clock time.
  
 ### and a law
-**Law of two feet** - as an expression of freedom and self-responsibility: The participant stays in a group only as long as he/she thinks it makes sense, i.e. as long as he/she can learn and/or contribute.
+👣 **Law of two feet** - as an expression of freedom and self-responsibility: The participant stays in a group only as long as he/she thinks it makes sense, i.e. as long as he/she can learn and/or contribute.
 
-### Bumblebees and butterflies
+### 🐝 Bumblebees and butterflies 🦋
 
 When people apply the law of two feet, they sometimes show behaviours that are metaphorically expressed with the terms "bumblebees" and "butterflies": "bumblebees" move from workshop to workshop like bumblebees move from flower to flower and fertilize the workshops reciprocally "butterflies" are attracting others.
 
