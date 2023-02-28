@@ -57,7 +57,7 @@ Die Räume sind schon reserviert. Darum musst du dich nicht kümmern.
 Generell könnt ihr euch gern an alle SMs wenden.
 
 ## Muss ich den ganzen Tag teilnehmen?
-Nein, du nimmst nur an den Sessions teil, die dich interessieren.
+Nein, du nimmst nur an den Sessions teil, die dich interessieren. ;-)
 
 ## Was mache ich in der Zeit, die mit Themen belegt sind, die mich nicht interessieren?
 In der Zeit unterstütze ich mein Team, z.B. arbeite an User Stories im Sprint. 
