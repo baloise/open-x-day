@@ -68,4 +68,7 @@ All topics are welcome.
 ## Can I only contribute topics that can be worked on within an hour?
 If you already know that a topic cannot be finished in an hour, you can also use several slots (next to each other).
 
+## How did you come up with such a great idea?
+The Open X Day is proudly copied from https://www.openfriday.org/
+
 ## When will the (next) Open X Days take place?
